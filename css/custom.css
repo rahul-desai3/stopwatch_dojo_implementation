@@ -1,0 +1,12 @@
+body {
+    font-family:"Arial", Helvetica, sans-serif;
+}
+#stopwatch, #buttons {
+    text-align: center;
+}
+#stopwatch {
+    font-size: 150%;
+}
+.claro * {
+    outline: none;
+}
