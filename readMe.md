@@ -28,9 +28,10 @@ Technologies
 License
 ----
 
-Open source
+[MIT] (Open source)
 
 
 **Free Software, Hell Yeah!**
 
 [Online Demo]:http://jsfiddle.net/rdesai/P7b9S/76/embedded/result/
+[MIT]:http://opensource.org/licenses/MIT
